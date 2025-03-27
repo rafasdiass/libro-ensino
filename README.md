@@ -193,8 +193,6 @@ Testes cobrem:
 ---
 
 **Desenvolvido por Rafael Dias**  
-Contato: [linkedin.com/in/rafaeldiasdev](https://linkedin.com/in/rafaeldiasdev)
+[https://www.linkedin.com/in/rdrafaeldias/](https://www.linkedin.com/in/rdrafaeldias/)
 ```
-
----
 
